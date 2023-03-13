@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "HelloWorld1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
